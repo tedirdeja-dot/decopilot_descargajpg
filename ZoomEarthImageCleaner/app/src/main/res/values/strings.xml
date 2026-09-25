@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Zoom Earth Image Cleaner</string>
+    <string name="default_url">https://zoom.earth/maps/satellite/#view=30.577,-18.135,6z/overlays=radar,labels:off</string>
+    <string name="load_url">Cargar URL</string>
+    <string name="save_image">Guardar imagen limpia</string>
+</resources>
